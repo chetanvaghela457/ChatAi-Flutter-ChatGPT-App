@@ -13,6 +13,17 @@ Available now on the [Google Play Store](https://play.google.com/store/apps/deta
 <h2>Customizable Experience:</h2> Easily tailor the chatbot's responses and appearance to fit your needs and preferences.
 <h2>Regular Updates:</h2> Benefit from ongoing improvements and new features as we continue to enhance the app.
 
+## Screenshots
+
+Home Screen               |  Home Screen 2              | Welcome Screen        |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://github.com/chetan532/ChatAi-Flutter-ChatGPT-App/blob/main/assets/images/s1.png?raw=true) | ![](https://github.com/chetan532/ChatAi-Flutter-ChatGPT-App/blob/main/assets/images/s2.png?raw=true)| ![](https://github.com/chetan532/ChatAi-Flutter-ChatGPT-App/blob/main/assets/images/s3.png?raw=true)|
+
+Category Screen      |  List Screen | Chat Screen |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://github.com/chetan532/ChatAi-Flutter-ChatGPT-App/blob/main/assets/images/s4.png?raw=true) |![](https://github.com/chetan532/ChatAi-Flutter-ChatGPT-App/blob/main/assets/images/s5.png?raw=true)|![](https://github.com/chetan532/ChatAi-Flutter-ChatGPT-App/blob/main/assets/images/s6.png?raw=true)|
+
+
 <h2>Getting Started</h2>
 To get started with AI Chatbot, follow these simple steps:
 
@@ -33,11 +44,44 @@ Execute the following command to launch the app:
 flutter run
 ```
 
-<h2>Contributing</h2>
-We welcome contributions from the community! If you have ideas for new features, improvements, or bug fixes, please feel free to submit a pull request. For more details, check out our Contributing Guidelines.
+## YouTube Channel
 
-<h2>Support</h2>
-If you encounter any issues or have questions about the app, please open an issue in this repository, and we'll be happy to assist you.
+[Code It Bro](https://www.youtube.com/@CodeItBroz)
 
-<h2>License</h2>
-This project is licensed under the MIT License. See the LICENSE file for more details.
+PRs are welcomed. Issues are welcomed too.
+
+### Support App
+
+> ⭐️ Star the repo to show support. ⭐️
+
+> You can also support the project by buying me a cup of coffee ☕️.
+
+> <a href="https://buymeacoffee.com/chetanvaghela"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=chetanvaghela&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+### 💻 Requirements
+
+- Any Operating System (MacOS, Linux, Windows)
+- Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
+- A little knowledge of Dart and Flutter
+
+### 👨‍💻 Author
+
+Apps were developed by Chetan Vaghela [![LinkedIn Follow]](https://www.linkedin.com/in/chetanvaghela457/)
+
+## Contribution Guide
+
+This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Flutter UIKit available for free, for everyone, forever.**
+
+For resource contribution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, raise separate PRs for each of them. Please consider adding resources maintaining the default sorting order of the category, like alphabetical sorting.
+
+If you have any suggestion for including more categories, feel free to open a Github issue for us to have more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promotional stuff. **Let's keep this project clean and useful.**
+
+If you feel that a particular resource(s)/template(s) available here is not a good fit for this project and should be removed, feel free to let me know by opening an issue.
+
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
+## Project Created & Maintained By
+
+### Chetan Vaghela
